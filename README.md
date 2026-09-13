@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Andi Saiful Kohir. I hold a bachelor's degree in civil engineering and currently pursuing my master's focusing on structural engineering. My research and project work mainly focus on reinforced concrete structure analysis, along with experience in steel structures. I'm most familiar with Indonesian and American Standard Codes (SNI, ACI, AISC, ASCE, etc.) but eager to explore other codes. In addition, I work extensively with analysis and design software, including SAP2000, ETABS, RSAP, XTRACT, Abaqus, AutoCAD, and Revit.
+
 <!--
 **AndiSaifulKohir/AndiSaifulKohir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
